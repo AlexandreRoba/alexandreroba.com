@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/alexandreroba
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexandreroba.com
+  * I am alexandreroba (https://keybase.io/alexandreroba) on keybase.
+  * I have a public key with fingerprint AAB6 3F61 E5D9 105E AEFA  C419 8440 67ED 5C2B C060
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010195e1ce9c600e3f8e74d1ff65638712ca9cc73108311dcd4b3ae907726a3355c70a",
+            "fingerprint": "aab63f61e5d9105eaefac419844067ed5c2bc060",
+            "host": "keybase.io",
+            "key_id": "844067ed5c2bc060",
+            "kid": "010195e1ce9c600e3f8e74d1ff65638712ca9cc73108311dcd4b3ae907726a3355c70a",
+            "uid": "a48f75460cdff29cb27f954f068cd619",
+            "username": "alexandreroba"
+        },
+        "service": {
+            "hostname": "alexandreroba.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485340531,
+    "expire_in": 157680000,
+    "prev": "ae294beed81131ecd40e504b1307f6fc805de6487596c7374341517bd3e14476",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNAAnicrVJtUFRVGN41UCEY2VRUEsyr0BAL3LP33K8NgpmYUUfJPpAkheV+nLt7
+A/Yuu3cXdgxj1aISzQ9ETWcyMRuYMCGN6UMJsuQjm0E2xuBHwzQ2SCuzhKgxid3L
+1D9/dv6cOed9nud93mfeK7GPGaKNe3Ltt7enfVtq7O865TVsfedNzw6MV0Q/Zt2B
+laG5C5WLyKPaymQRs2I4wAFLIiAgVqBwHBESg2goAkmiSIpgaGAROFYQaALgDAGA
+KIiQJzjE4jRtoTiCIEmBxjnMjEmy047cLrfsVDVZjuMpQqIAIkUW4CTikMQJELAM
+hDhFI5EULLyAU7hGdCgenaGZ4zkPypAV7U972ObsPQL/P/v2zslxkJFoElK4IEqS
+hRV4Cy2xJJRwihFECrA60IPcTq4C6ehyVM05RTdyKzyH1ZgxreSTBaSnq4/zKFiG
+oFRoKi63oiqCUq6VHarqsups1e/S4VWIt/0rZONlp6gFqhF8yO2RFSdmBRpSUGVd
+GUCGJCBOEsCMoWqX7EY2WUeQNMXg2tHbIJ/uAFlYyCMkMgAQAGkh4IjEIQ8InJYo
+SWBwUkQUZGiSpbSsaEhAQAKaFwkEIKQpTB+t0qlgVqjZ5OyapEe2OznV60ZYTXfX
+9giDMdowP3KevmiG6Ki4/9YvOWXRbEroii254sIz/OrdX18q/dLCfrXh3cTjwVUh
+vy0PPegaOB+f/kJC5nh07Zn6wOla8/zRhGSqoLj+k7OHwhd/C2efHl4QrhjvtG0b
+mPi727ulrcpgjO19706Nr7OOKzLfSFta9P6t+qajr3ds2+h1jC0sMcZsKYrPONmR
+G2y0PWia6VwXZWjvbQiFXk067CpYdnnJdIcr1ZdTOFUuv2gKfmg5nzr4RfXUa+rV
+2IvB6ycqxs9l15yxTvGXf34YoAbxvN2jcTEPA/6N+SNPzPiunY2MMMeQi9dMbbJn
+9STe+uP5l++N74+Q1x4rUdRX/jqZd03NDbVnp+yt6SkxZW1akGQaHWiLPLEr6UKa
+29hs+tVbva81MinfPuZpLdw/G17z5FBLfF/xMDbDhjN3wkVPNzR1BRdveKnA/6PY
+9lb1nsOFnw+mwMnwpbdrSVdRXtKSzaz1xuP01f7VK/2wJDOtsrTlz5vTuzqibmcE
+7CPpZefsfcsdcet7R5xPCbN11k+P3Px+ksvsy/+ICQ4nTB+ctzTYuDzaxDUeTfcP
+rRgIP7duX5/jgKnpfkxDS8QvhXfvJyce3Lr5bvOdU8XPfpPaxE1k/RQq/viNIz+s
+/a7ZkZE+sTe9srd+2fGeD5gwiFUCx9pXRcYNmR2T1DiDagfh78ZAlXesrtVI3evz
+fRZ7fcXClf053Tnrd/4Dwm+6/g==
+=TzkL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexandreroba
+
+==================================================================
